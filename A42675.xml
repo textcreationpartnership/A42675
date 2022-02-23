@@ -1,0 +1,972 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Ghost of the Emperor Charles the Fifth appearing to Volcart the porter, or, A dialogue of the times</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 101 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42675</idno>
+            <idno type="STC">Wing G638</idno>
+            <idno type="STC">ESTC R30404</idno>
+            <idno type="EEBO-CITATION">11309008</idno>
+            <idno type="OCLC">ocm 11309008</idno>
+            <idno type="VID">47406</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47406)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Ghost of the Emperor Charles the Fifth appearing to Volcart the porter, or, A dialogue of the times</title>
+               </titleStmt>
+               <extent>40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Newton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"April 1st. 1690. This may be printed. Rob. Midgley."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  V, --  Holy Roman Emperor, 1500-1558 --  Caricatures and cartoons.</term>
+               <term>Europe --  History --  17th century --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47406:1"/>
+            <pb facs="tcp:47406:1"/>
+            <p>THE GHOST OF THE EMPEROR <hi>Charles the Fifth,</hi> Appearing to <hi>VOLCART</hi> the PORTER: OR, A <hi>Dialogue touching the Times.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <date>April 1ſt. 1690.</date>
+                        </opener>
+                        <p>
+                           <hi>This may be Printed,</hi>
+                        </p>
+                        <closer>
+                           <signed>ROB. MIDGLEY.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Newton,</hi> at the <hi>Three Pidgeons</hi> over-againſt the <hi>Inner Temple-gate</hi> in <hi>Fleet-ſtreet.</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:47406:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:47406:2"/>
+            <head>THE GHOST of the EMPEROR Charles the Fifth, Appearing to <hi>VOLCART</hi> the Porter, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>The Ghoſt.</speaker>
+               <p>GOOD chear Friend: prethee where abouts am I, and how far is it to the <hi>Low Countries?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>You ſeem not well awake Sir, in asking for the <hi>Low Countries,</hi> when you are no wat <hi>Bruſſels.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>Ah do not inſult over a poor unhappy Shadow, that has had no reſt for this hundred and thirty Years. Did you know who I were, be you Friend or Foe, you would ſhew me ſome reſpect.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Pray let's hear then who you are, that we may know what reſpect is due to you; for my being a Porter does not hinder me from being able to give as good account of things as another; and tho' I have not liv'd an hundred and thirty Years, yet have I liv'd the beſt part of that time; which makes a Man old enough not to be afraid of Ghoſts and Shadows. Pray then ask what you pleaſe, for I have paſt no ſmall time of my life at Court.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>Good Friend do not trifle with me; you tell me you know <hi>Bruſſels,</hi> and what has paſt in the World. Pray what's your name, you that ſpeak? for if you be of Quality, I ſhall preſently know you; are you the Duke of <hi>Arſchot, Count Egmont, Count<g ref="char:punc">▪</g> Horn, the Marqueſs de Bergues:</hi> Theſe are Perſons well known in <hi>Flanders.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="4" facs="tcp:47406:3"/>Volcart.</speaker>
+               <p>God forbid I ſhould pretend to be ſo great as any of theſe; no, no, I am only a poor Door-keeper, my name <hi>Volcart.</hi> But pray let's know what's yours.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>Why I am the Ghoſt of <hi>Charles</hi> V. he that ruled not only the Provinces we ſpeak of; but carri'd his name much far<g ref="char:EOLhyphen"/>ther: ſo that I need ſay no more to thee.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>You <hi>Charles</hi> V. you are an Impoſter, were you that great Prince, you would know the place where you are, ſeeing you built it.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Ah! I begin to know whereabouts, I am; 'tis true it was I that built this Palace, but why doſt thou make me re<g ref="char:EOLhyphen"/>member a thing which was the beginning of my miſery? Doſt thou know why I built it, and for what end it ſerv'd me?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>No; unleſs it were to hang Pictures in; at leaſt this is the common report. But is it poſſible, that you are that great Prince, whom I have heard ſo much of, and whoſe Memory is in ſo great veneration in theſe Provinces?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>The very ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>And what brings you into theſe Countries?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>The deſire of knowing what paſſes. Thou knoweſt I was born here, and that the love of ones Native Country never dies. Another reaſon brings me here beſides, I am willing to inſtruct my Deſcendants, how they may be more happy than I. Here's the wretched place where I began to loſe my Innocen<g ref="char:EOLhyphen"/>cy; I had rang'd Pictures here, as thou now ſaiſt, of all the Princes of <hi>Europe;</hi> but to my misfortune, none of 'em appeared ſo beautiful to me, as that of my Siſter the Queen of <hi>Hungary.</hi> I was always gazing on it; Curſt be the Painter that made her ſo handſom, which gave me a deſire to behold the Original, which appeared to me far more beautiful than its Picture. I could take no pleaſure after this, but in her company. What ſhall I ſay, I loved her, ſhe loved me. And this is the curſed ef<g ref="char:EOLhyphen"/>fect of theſe abominable Pictures.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>How! methinks this does not well agree with your Character, for I comprehend by this, that the Love you had for her, was of another nature, than that which is uſual between Brother and Siſter.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>Very true; and would to God it had not proceeded ſo far, I ſhould not have ſigh'd as I have done, and been dri<g ref="char:EOLhyphen"/>ven to this deſpair. But to make an end of this diſcourſe, doſt know who <hi>Don John</hi> of <hi>Auſtria</hi> was?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="5" facs="tcp:47406:3"/>Volcart.</speaker>
+               <p>Know who he was? yes, ſure; he was Governour of theſe Provinces, and I have admitted thouſands and thouſands of Perſons into the Palace to ſpeak with him.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>That is impoſſible; for tho' thou art otherwiſe old enough, yet not ſo old as to have ſeen him. It's about an hun<g ref="char:EOLhyphen"/>dred and thirty Years ago ſince I am dead, and he was then at Mans ſtate; ſo that conſequently he could not live long enough for thee to know him.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>What then you don't mean <hi>Don John of Auſtria,</hi> the Son of <hi>Philip</hi> IV. begot on an Actreſs, the Brother of our King now Reigning.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>No.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>You ſpeak then of the other <hi>Don John,</hi> he that won the famous Battel of <hi>Lepanto,</hi> in a word, your Son.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>Yes; but doſt know who was his Mother?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>No; I have read <hi>Strada</hi> out, without being the wi<g ref="char:EOLhyphen"/>ſer in this matter. He ſays, indeed, that he was your Son; that he was brought up by <hi>Don Lewis Quiſcida</hi> the Steward of your Houſhold, no body knowing who he was, he himſelf being ig<g ref="char:EOLhyphen"/>norant of his Original, till <hi>Philip</hi> the Second inform'd him one day a Hunting: but of his Mother, he made no mention.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>Who is this <hi>Strada?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Why he was a Jeſuit that gives an account how you left the Empire, and forſook the World; and who like<g ref="char:EOLhyphen"/>wiſe has given us the famous Hiſtory of the Troubles in the <hi>Low Countries,</hi> under the Reign of <hi>Philip</hi> II. your Son.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>A Man of his Order could not write any thing to diſgrace my Memory; for the Jeſuits have been ever Penſiona<g ref="char:EOLhyphen"/>ries to the Houſe of <hi>Auſtria;</hi> beſides, the firſt thing they learn, is to offer Incenſe to the great ones of the World. However, if he has conceal'd my ſhame, I will not; know then, that the Queen of <hi>Hungary</hi> was <hi>Don John</hi>'s Mother.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>The Queen of <hi>Hungary, Don John</hi>'s Mother? What your own Siſter?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>The very ſame. Do not I tell you ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>However prepared one may be againſt the hearing of extraordinary things, yet ſhew me the Man whom this Re<g ref="char:EOLhyphen"/>lation will not ſurprize. A Child of ones own Siſter. Whor<g ref="char:EOLhyphen"/>ing is frequent enough, and paſſes for Gallantry, but thank God Inceſt is not ſo rife. Our Town it's true is full of Cuckolds, as
+<pb n="6" facs="tcp:47406:4"/> well as others; and my own Son was of the number, having married a Woman a little above his Quality. But ſeeing the Wife of a King, and the Siſter of a great Emperor have drove on the Trade, it belongs to him to comfort himſelf. And it ap<g ref="char:EOLhyphen"/>pears to me, that it is not the Cuckolds that ſuffer in the other World, but thoſe that make them ſo; otherwiſe it would be the King of <hi>Hungary</hi> who would appear to me, and not the Great <hi>Charles.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Thou ſaiſt right, and it wou'd not be juſt, that af<g ref="char:EOLhyphen"/>ter having ſuffered in this World, they ſhould ſuffer moreover in the other. However being now ſufficiently inſtructed about me, prethee learn me, what has hapned in this Country ſince my death.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>What, then, have the dead ſuch Curioſity? The Hereticks affirm they are no farther concern'd in the Affairs of this World.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Ah.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>You ſigh.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>I have reaſon to ſigh. I know what you mean by this Word Hereticks, and this brings ſtill to my remembrance more Evils which I have committed. But do not enlarge my Grief, but rather divert it by an Anſwer to my Queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Withal my Heart; provided you'l let me know the Reaſon why you left the Empire, and retired from the World; for all thoſe that have wrote on that Subject, have given ſuch different Accounts, that the World is at a loſs whom to be<g ref="char:EOLhyphen"/>lieve.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Spare me a Recital, which will be to me very trouble<g ref="char:EOLhyphen"/>ſom.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Spare me then likewiſe a Relation, which will ſpend my Lungs. Beſides, do you think I can ſatisfie your Queſti<g ref="char:EOLhyphen"/>on without deep Sighs? A Man muſt be very inſenſible to re<g ref="char:EOLhyphen"/>late without the greateſt regret, the former Condition of theſe Provinces, and that wherein they now are. I have ſeen them flouriſhing, and at this day do behold them ſo decay'd, that its impoſſible to think them the ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>Well I ſee thou art a Man of thy Trade, that will not ſo much as tell a Man what's a Clock for nothing; Thou haſt been always a griping covetous humour'd Fellow, I'll warrant thee.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="7" facs="tcp:47406:4"/>Volcart.</speaker>
+               <p>I am of that humour God has been pleaſed to en<g ref="char:EOLhyphen"/>due me with, either I do love Money, or I do not love it: How<g ref="char:EOLhyphen"/>ever I know not why you ſhould not ſatisfie my Queſtions, as well as I yours.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>I cannot tell thee any great news from the other World; and as to this, when I was on the Throne I could not conceal every thing from the Eyes of the Publick. There are ſome Quick-eyed <hi>Argus's</hi> every where. All that I can ſay to thee is, that if I have been reſerv'd in any thing, it has been chiefly in the matter of Opinion or Religion; Policy had learn'd me, that through the Profeſſion of a great Zeal to the Catho<g ref="char:EOLhyphen"/>lick Religion, I muſt arrive to the univerſal Empire. So that I would be thought to be the moſt bigotted <hi>Roman</hi> Catholick in the World; I undertook Wars under this pretence, and if thou wouldſt know more of this matter, thou needſt only read the Hiſtory of my Life, which I got written in my Life time.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>I have read it; and there ſeems to me ſeveral Paſ<g ref="char:EOLhyphen"/>ſages, wherein you contradict theſe Polities; for Example, how do you explain the Sacking of <hi>Rome</hi> by your Troops, and the Impriſonment of the Holy Father, whom you kept along time in Cuſtody in the Caſtle of St. <hi>Angelo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Poo a Fart of this, your Spiritual Perſons are as great Polititians as the Secular Princes; we have all our <hi>Fineſſes</hi> from the Clergy, and you'll find them to be the greateſt Trick<g ref="char:EOLhyphen"/>ers. Read only the Hiſtory of the Popes, and you'l ſee, that you muſt not go to <hi>Rome</hi> for Religion; and hadſt thou been at the Place, as well as I, thou wouldſt not need two words to be ſaid to thee, on that Subject.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>I have heard indeed ſeveral times what you ſay, but I ever thought 'twas the Hereticks that ſpread theſe Reports. However I am almoſt convinc'd by what you ſay, for I cannot believe Ghoſts will lye, eſpecially ſuch an Illuſtrious Phantome as you.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>I do not lye, but ſpeak the Truth; doſt thou not ſee what jugling and tricking there is to be Pope, whence thou maiſt judg, what they are capable of, when they have got into the Chair.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>However we have had one of late, that was not of this Number, but really an honeſt Man; for had it not been for him, the Heirs of your Brother <hi>Maximilian</hi> might have begg'd
+<pb n="8" facs="tcp:47406:5"/> their Bread, the Turks had driven them from the Throne; whereas by his means, they themſelves are driven out of <hi>Hunga<g ref="char:EOLhyphen"/>ry. Lewis</hi> the Great caus'd an Archbiſhop of <hi>Cologn</hi> to be ele<g ref="char:EOLhyphen"/>cted, a Prince of <hi>Liege,</hi> and Biſhop of <hi>Munſter,</hi> according to his humour, but by a lucky ſtroke, the good Father has turn'd <hi>Lewis</hi> beſide his Politicks, without which theſe Provinces had in a ſhort time unavoidably faln into his Hands.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>And who is this <hi>Lewis</hi> the Great.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>'Tis the King of <hi>France,</hi> a Prince ſuch another al<g ref="char:EOLhyphen"/>moſt as you have been, a great Pol, full of Diſſimulation, a mighty undertaker, and generally ſucceſsful; its true he has not laid hold on the Pope yet, as you have done, but 'twas not for want of good Will but Power. He has had divers Quar<g ref="char:EOLhyphen"/>rels with him grounded on frivolous Pretences, byt however the whole has turn'd much to the advantage of Chriſtendom.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Which is to ſay, that this Pope whom thou haſt made ſo honeſt a Man, is no more than a Man; for this ſtroke thou ſpeakſt of, ariſes from a Principle of Revenge and human Af<g ref="char:EOLhyphen"/>fections, as well as thoſe of other Men. But before we go any farther, prithee tell me ſome of thoſe Remarkable Paſſages ſince my death; and which I could never hear any thing of in the other World.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>That's my deſign, and I had come there, had you not interrupted me: in comparing <hi>Lewis</hi> the Great with you, I was about telling you, that he has not been behind hand with you in loving the fair Sex; and though he has not had Privacies with his own Siſter, which is an abominable Inceſt, yet he has been guilty of an Adultery, which muſt needs ſound very Criminal. He has taken away one of his Subjects Wives, and enjoy'd her ſeveral years. And in a word, as your Sin made you retire in<g ref="char:EOLhyphen"/>to a Monaſtery, where you dyed; his made him undertake the deſtruction of the Hereticks of his Kingdom. He has depriv'd them of the Exerciſe of their Religion, and this is the Penance impoſed on him by Father <hi>la Chaiſe</hi> his Confeſſor; without which, its probable he has inform'd him, that the way to Para<g ref="char:EOLhyphen"/>dice would be ſhut up; whether he has deceiv'd him or no, let others judg; my Hair ſtands an end at the remembrance of the Violences and Cruelties uſed to effect this. However he has had greater ſucceſs than your Son; who deſirous of doing the like in theſe Provinces, has thrown them into ſuch a Revolt, as
+<pb n="9" facs="tcp:47406:5"/> has coſt him the loſs of the beſt part of them. Hence has ar oſe Republick, which flouriſhes above Envy, and has ſtood out in War I know not how many times againſt all the Forces of your Poſterity: But in fine, after 'twas found they could not bring her under; they have made a Treaty with her, by which they ac<g ref="char:EOLhyphen"/>knowledge her a Sovereign State.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>In what Canton was this Republick form'd; proba<g ref="char:EOLhyphen"/>bly in the Provinces bordering on <hi>France?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>No, Sir, a miſtake: on the contrary in <hi>Holland,</hi> and the ſix other Neighbouring Provinces, which have made a League together, which has held for this hunder'd and twenty years and upwards.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>What Head have they had to compaſs ſuch an En<g ref="char:EOLhyphen"/>terprize</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>
+                  <hi>William</hi> Prince of <hi>Orange.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>What he that was ſo dear to me, that I was continual<g ref="char:EOLhyphen"/>ly leaning on his Shoulders as I walkt; notwithſtanding the Jealouſie I cauſed hereby to my other Courtiers?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>The very ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>What Reaſon could he pretend for this?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Reaſon ſufficient as you ſhall hear. <hi>Luther</hi> and <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> had brought over ſeveral People to their Sentiments; and ſe<g ref="char:EOLhyphen"/>veral here amongſt us believ'd, that the firſt of theſe was ſent from God to reform the Abuſes of the Catholick Religion: In a word, they ſuffered themſelves to be perſwaded by the Miniſtry of thoſe who taught his Doctrine. What ſhall I ſay; The Ex<g ref="char:EOLhyphen"/>emplary Life they led, compared with the diſſolution of Man<g ref="char:EOLhyphen"/>ners amongſt the Catholicks; the Inquiſition which <hi>Philip</hi> your Son would have brought in, with ſome other Novelties, altoge<g ref="char:EOLhyphen"/>ther as dangerous; the rigor of thoſe which Govern'd, and a thouſand other things, which I do not mention, gave Birth to theſe troubles, the Sequel of which has been, as I now men<g ref="char:EOLhyphen"/>tion'd.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>But why if they would have chang'd their Religion, did they not rather take the <hi>Lutheran</hi> than the <hi>Calviniſt? Luther</hi> was ſo Honeſt a Man and ſo knowing.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>If he were ſuch a honeſt Man, I much womder you ſhould Perſecute him ſo; and not only him, but all thoſe that Profeſt his Doctrine, and it ſeems to me, they have not had a more mortal Enemy than you.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="10" facs="tcp:47406:6"/>Ghost.</speaker>
+               <p>Prethee now, theſe are Myſteries of State, which every body muſt not ſee into, I have already told thee, that Princes are good Comedians, I have experienc'd what I tell thee in my ſelf, how many things have I been forc'd to do againſt my Inclinations; for ſo far was I from hating <hi>Luther</hi> and his Do<g ref="char:EOLhyphen"/>ctrine, that I have always had a ſecret Veneration for both. Thou enquireſt of me juſt now, how I came to leave my Sove<g ref="char:EOLhyphen"/>reignty to retire into ſolitude, I had no other reaſon than this, that I had perſecuted the Truth againſt the Light of my own Conſcience, and my Sin continually ſtared me in the Face: So that imagining that nothing could appeaſe the Anger of God but a Bloody Sacrifice; I hence determine to leave all to do Pe<g ref="char:EOLhyphen"/>nance. I imparted this deſign to three Men who had the ſame Sentiments as I, thouching <hi>Luther</hi> and his Doctrine; I had al<g ref="char:EOLhyphen"/>ready taken one of them for my Director, though in appear<g ref="char:EOLhyphen"/>ance he was a zealous <hi>Roman</hi> Catholick; and having all three of them approved of my Reſolution, they likewiſe promis'd to follow me. And here's in one word the Secret of this great retreat, which has made ſuch a noiſe in the World. But after ſo much Blood ſo unjuſtly ſpilt, could I do leſs than to Cloy<g ref="char:EOLhyphen"/>ſter up my ſelf (as it were alive) for the expiation of my Sins.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>But you did not dye in thoſe Opinions, but un<g ref="char:EOLhyphen"/>doubtedly came to your ſelf again.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>I did, and the three Men I mentioned. <hi>Philip</hi> II. knew it well, and I learnt in the other World a Circumſtance which I'll tell thee. My Son, having been inform'd, I know not how, that theſe three Perſons had always entertain'd me in the ſame Religion, he would needs make their Proceſs after their death. But a certain able Counſellor, more ſubtle than he, ad<g ref="char:EOLhyphen"/>vis'd him to have a care what he did, ſeeing he could not con<g ref="char:EOLhyphen"/>demn them, without condemning my Memory as an Heretick, and that as <hi>Rome</hi> had given out a Decree, by which the Chil<g ref="char:EOLhyphen"/>dren of thoſe Perſons could not inherit; ſo this would be to de<g ref="char:EOLhyphen"/>clare himſelf fallen from the faireſt Succeſſion as ever befel Prince: So that they were let alone, and my Bones likewiſe untoucht.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>So then as far a I can perceive you are an Heretick Mr. <hi>Charles</hi> the Fifth; but will you do me no hurt, or ſhall I go and ſetch ſome Holy Water.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="11" facs="tcp:47406:6"/>Ghoſt.</speaker>
+               <p>Fie, ſie; at thy age to talk ſo. This were well enough for a Child; prothee be quiet, and ſtay here, I intend thee no harm; the Dead do neither good nor hurt.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Ah good Mr. <hi>Charles</hi> the Fifth may I truſt you, good now ſwear as you are a dead Man; for I believe dead Folks do not uſe to forſwear themſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>I'll do more, I'll ſwear on the Faith of an Empe<g ref="char:EOLhyphen"/>ror, and this Oath is ſtronger than that thou requireſt.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>What then the Word of a dead Man is nothing with you; and that of an Emperor or Prince is leſs with me. How many are there in our days, who laugh at their own Promiſes, their is neither Treaty nor Oath that holds them, and provided they can ſay 'tis a matter whereon the good of the State de<g ref="char:EOLhyphen"/>pends, they think they deſerve more praiſe than blame. Its true your Gentlemen Courtiers are the Cauſes of theſe abuſes, for inſtead of blaming what's blame worthy, they are prodigal of their Incenſe in all occaſions; a great Deceiver is a great Poli<g ref="char:EOLhyphen"/>titian in their ſpeech, and they have always in their Mouths this Maxim, that he that cannot Diſſemble knows not how to Reign. And therefore pray let me hear no more of your Emperor, and your word of a Prince, I had rather you would ſwear to me by the Faith of a dead Man. Death makes all equal, and as I ſhall be whether I will or no, dead as well as you, ſo I may require you to do me Juſtice; if you put any of your Tricks on me, your diſtinguiſhing Maxims being not able then to ſhelter you from my juſt Reproaches.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Well then, on the Faith of a dead Man, I promiſe thee all thou deſireſt.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>What's the meaning of this, to promiſe me all that I deſire? Do's not this reſemble the Treaty of <hi>Nimiguen,</hi> where for want of an exact explication there aroſe a thouſand Abuſes? I'll have ſomething more real and poſitive; you Princes have ſuch fetches which others cannot underſtand. Did not Mr. <hi>Ravaux</hi> entertain you below with his ſubtilties; and after ha<g ref="char:EOLhyphen"/>ving ſtretch in this World the <hi>Comté</hi> of <hi>Chiny</hi> as far as he plea<g ref="char:EOLhyphen"/>ſed, will not he make a good Counſellor for you? (he that now wants a Maſter) to trouble all thoſe you may have to do with.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Who is this Mr. <hi>Ravaux?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="12" facs="tcp:47406:7"/>Volcart.</speaker>
+               <p>He is a Man that has gained more Countries to <hi>France</hi> than any Captain it ever had; a Man that has intro<g ref="char:EOLhyphen"/>duced ſuch a right of dependancy, as was never heard of before him, and who if a Truce had not hapned between his Maſter and the neighbouring States, which has interrupted the Courſe of his Chicaneries, would have made to depend at the end of a lit<g ref="char:EOLhyphen"/>tle County the Empire of <hi>Trebiſon'd,</hi> which yet is diſtant from it ſome Hundreds of Leagues.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>But why did the King of <hi>France</hi> encourage ſuch great Injuſtice, was he not inform'd better than thus of the Truth?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>But why as long as you have liv'd, have you upheld thoſe who told you, to make their Court to you, that you had a right to the Kingdom of <hi>Naples,</hi> and the other States which you invaded in <hi>Italy?</hi> Was not you likewiſe inform'd of the Truth, as well as he could be? or was it more lawful in thoſe times to ſeize on others Rights than it is now.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Thou art, I was going to ſay, a ſawcy old Fellow, to preſs thus on a Prince. Are all ſorts of Truths fit to be ſpoken? and were it not better to diſſemble many things.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Very well, we are now come to the Point, had I not then reaſon to ſay, that Princes never want Courtiers to ruin them by their Flatteries, and partial Repreſentations of things? Had you been dealt ſo freely with in your time, as I now talk to you, how much Blood had been ſaved, which was ſhed by your wretched Ambition? What are you now the better for all your Violencies, Rapins, and Murthers? What is now left you but the ſad remembrance of ſo many Crimes? But I'll hold my ſelf in. By the way then, pray inform me of one thing, which I am curious of knowing. Were you amorous in that time we ſpeak of, or were you not, and which of the two Hi<g ref="char:EOLhyphen"/>ſtorians ſhall I believe? him who ſets forth one of your Actions as Great and Heroical, whilſt the other gives it quite different Colours. Here's what the firſt ſays; That there was a Gover<g ref="char:EOLhyphen"/>nour of a ſmall Place who had a very handſome Woman to his Wife, one of whom the Vice-Roy of the Province became greatly enamour'd, inſomuch that he uſed all means to induce her to con<g ref="char:EOLhyphen"/>tent his Paſſions, but that her Vertue being above the Tempta<g ref="char:EOLhyphen"/>tion, he knew not what courſe to take to have his deſire; when he had news brought him that her Husband was concern'd in a Conſpiracy: he being tranſported with this good Fortune, re<g ref="char:EOLhyphen"/>ſolves
+<pb n="13" facs="tcp:47406:7"/> to make his Wife redeem his Life at the coſt of her Ho<g ref="char:EOLhyphen"/>nour; but that this Lady, on the hearing of the Propoſal, went to her Husband and endeavoured to ſtrengthen him in the re<g ref="char:EOLhyphen"/>ſolution of dying, rather than purchaſe his Life on ſuch ſhame<g ref="char:EOLhyphen"/>ful terms; but that her Husband, weaker than ſhe, threw him<g ref="char:EOLhyphen"/>ſelf ſeveral times at her Feet, conjuring her to ſave him, tho' at that price, ſeeing no other would be accepted: That ſhe had wept, ſigh'd, and bewail'd moſt pitiouſly her Misfortune, before ſhe could be brought to yield to her Husbands requeſt; howe<g ref="char:EOLhyphen"/>ver being at length prevail'd with, ſhe went to the Vice Roy, who beyond Example, had commanded her Husband to be ſtrangled in the Priſon, whilſt he enjoy'd her Embraces; that this Woman at the leaving his Bed, thinking to find her Hus<g ref="char:EOLhyphen"/>band, and to bewail with him the extremity ſhe had been redu<g ref="char:EOLhyphen"/>ced to, was extreamly ſupris'd and diſcomforted at the ſame time to find him dead; that ſhe had a thouſand times curſt the Perfidiouſneſs of the Vice-Roy, and that after ſeveral Imprecati<g ref="char:EOLhyphen"/>ons, eaſie to imagin, ſhe had reſolv'd to go in the ſearch of you, though to the end of the World, to demand Juſtice, had ſhe not been inform'd that you were coming into that Country; at which time of your arrival, ſhe addreſt her ſelf to you, and that you having heard the Matter, it had rais'd ſuch Indignation in you, that you caus'd the Vice Roy to come before you, and at the ſame time ſent for a Prieſt and an Executioner: that as ſoon as ever he came into your Preſence, you reproach'd him with his Crime, with command to make preſent Reparation, in eſpouſing the Woman: that he was greatly ſurpriz'd to ſee you in ſuch Paſſion, and having fruitleſly endeavoured to pacifie you; he had at length taken the Party of marrying her, ſeeing he muſt do that or dye. But that having Eſpouſed her, he was ſtill more ſupriz'd, ſeeing you told him he had now made reparation to the Honour of this Woman, but that he had not ſatisfied your Juſtice; whereupon ordering him to confeſs himſelf im<g ref="char:EOLhyphen"/>mediately to the Prieſt, who had married him, you had caus'd the Executioner to ſtrike off his Head.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>All this is very true; and this Hiſtorian has related no<g ref="char:EOLhyphen"/>thing but what I have done.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Very well great Emperor! hold you a little, and hear what the other Author ſays I now mention'd. Having related the matter like the former he adds; that this Woman having ſeiz'd
+<pb n="14" facs="tcp:47406:8"/> on your Affections as well as the Vice-Roys, you became ſo in love with her, and ſo jealous at the ſame time, that this was the reaſon, why you made ſuch quick diſpatch of her Husband; and that this was a thing concerted between you, before this ſen<g ref="char:EOLhyphen"/>tence, which made you appear ſuch a great lover of Juſtice; but that at bottom, this was only the remains of that fire, which made you burn for the Queen of <hi>Hungary.</hi> I always believ'd this was meer ſlander, eſpecially when he tells us you loved your own Siſter; but ſeeing you have already acknowledged one, why ſhould you not be as ingenious in confeſſing the other? ſeeing the latter is not, I think, ſo criminal.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Yet this has coſt me a great remorſe of mind.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>This is true then, and the laſt Author is not mi<g ref="char:EOLhyphen"/>ſtaken.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>No.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Very well; here's another ſtroak which makes you very much reſemble <hi>Lewis</hi> the Great. You have been gnaw'd all your life time with ſuch an exceſſive ambition, as has made you diſturb the Peace of all the World. And this was reproach'd you by that little Monk, whoſe ſleep you interrupted, when con<g ref="char:EOLhyphen"/>fined in your ſolitude. Did he not tell you that having turn'd all <hi>Europe</hi> topſie turvy, you could not be quiet your ſelf, neither would you let others be ſo in their ſolitude? But as far as I can ſee, here's another ſubject of compariſon between you two. You have both of you taken your Neighbours Wives, but <hi>Lewis</hi> was ſo far from putting to death <hi>Monſieur de Monteſpan,</hi> that he ſent him into his own Country, and ordered him a conſiderable ſum of Money for the gilding of his Horns; whereas you cauſe a Mans Head to be taken off his Shoulders, becauſe he has a hand<g ref="char:EOLhyphen"/>ſom Wife. Bleſs us! how dangerous was it in thoſe times to Eſpouſe one of Merit and Beauty; the Husbands were not hor<g ref="char:EOLhyphen"/>nified as they are now adays, but ran a risk to ride Poſt into the other World. Well, I ſee there's no ſuch great reaſon to praiſe the times paſt; for now as ſoon as a Spark has Money, he has quickly an handſom Miſtriſs, and a good Friend. The Husband is the moſt complaiſant Man in the World, he takes his Cloak, Sword and Gloves, as ſoon as ever he ſees him coming, and un<g ref="char:EOLhyphen"/>der pretence of buſineſs, he lets him do his peaceably with his Wife. This brings to my remembrance what has hapned to my ſelf; There frequented a certain Spark, heretofore, my Houſe;
+<pb n="15" facs="tcp:47406:8"/> and as ſoon as ever my Wife ſaw him, ſhe took great care to re<g ref="char:EOLhyphen"/>member me of a viſit I promis'd, or of a pleaſant walk, I can<g ref="char:EOLhyphen"/>not tell whether ſhe meant any harm by it, but methinks my Forehead itches at this very time I am ſpeaking of it; well, peace be with her Soul, I forgive her, ſeeing ſhe is gone.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Prethee hold thy Tongue, ceaſe complaining and be quiet, why ſhouldſt thou be more ſqueamiſh than other Folks? if thou wert the only Cuckold in the World, it were another matter.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Very fine truly! I thought the People of the other World would not have expreſt themſelves at ſo light a rate on ſo grave a ſubject; I thought rather, that having left behind them theſe amorous Vanities, they would have ſhewed the greateſt abhorrence of theſe Abuſes. But I have a ſtrong per<g ref="char:EOLhyphen"/>ſwaſion you have not wholly loſt your old relliſh; and that ha<g ref="char:EOLhyphen"/>ving had your time with the Queen of <hi>Hungary,</hi> and the handſom Widow we lately mentioned, as well as with many others, you ſtill have a hankering after the ſame game; <hi>for an old ſinner ne<g ref="char:EOLhyphen"/>ver dies to himſelf,</hi> and tho' his ſtrength fails him, yet his will is ſtill the ſame. But pray tell me to what end were all thoſe grimaces, when you were in your ſolitude, ſeeing you were ever ſuch a good companion. If I underſtand what you now ſaid, you would have one believe you to be a ſincere <hi>Lutheran;</hi> but if this were true, how could you aſſiſt at the Prayers of the Monks in the Quire as you did; did you find nothing herein that went againſt your Conſcience? But above all, how do you excuſe that whimſie which made you ſhut your ſelf up alive in a Tomb as another <hi>Harlequin?</hi> Is it not for this reaſon that this Comedian has a name ſo near yours, that it is the ve<g ref="char:EOLhyphen"/>ry ſame with the firſt Letter. Methinks I ſee you in that po<g ref="char:EOLhyphen"/>ſture full of amorous fancies, whilſt the Funeral Offices were chanting for you. But pray what could be your deſign in doing this, and what was the uſe you intended to make of this.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>To blind the World, and make it believe the contrary to what was true. Several that ſaw clearer than I deſired, for a long time, ſuſpected that I was not firmly fixt to the <hi>Catholick</hi> Religion, which neceſſitated me to throw Duſt in their Eyes by ſome famous action. Moreover, how could I do better than in teſtifying outwardly to approve of Prayers which I in<g ref="char:EOLhyphen"/>wardly
+<pb n="16" facs="tcp:47406:9"/> diſliked; yet thou maiſt know, that I was ſcrupulous enough to do nothing herein; and I did not ceaſe to tell my three Directors that this was a great ſin, as in effect I do believe it to be ſtill: but what wouldſt thou have a Man do? they ſeeing me melancholy and doubtful, were afraid they ſhould be call'd in queſtion about the change of my Religion, and there<g ref="char:EOLhyphen"/>fore they gave me no reſt, till I had finiſhed the Mummery, of which they had been the inventors: Yet there were none but the Vulgar that were abuſed hereby, for clear-ſighted People ſaw through the cheat.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Well! As far as I can ſee, Father <hi>Strada</hi> is a great lyar, who would have this action paſs, as a matter of great edi<g ref="char:EOLhyphen"/>fication; if he has had no better Memoirs for the reſt of his Hi<g ref="char:EOLhyphen"/>ſtory, I ſee there's not much ſtreſs to be laid on what he ſays: And to ſpeak the truth, altho' he brags much of the certain knowledge of what he writes, yet I have for ſome time began to ſuſpect his veracity; for I could never relliſh his attributing all along the advantage to the <hi>Spaniards,</hi> and at the ſame time I ſee a Republick ſpring up, and he is ſo far from ſaying how this comes to paſs, that he does not ſo much as mention one tittle of it.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>A Jeſuite Hiſtorian; you muſt expect indeed much truth from ſuch a one. But do not thou diſguiſe it from me, but inſtruct me in the ſtate of theſe Provinces, and that of my Deſcendants.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Your Deſcendants are terminated in an infirm Prince that remains to us, and who according to the common report cannot give us an Heir, which is attributed to his Marriage with a <hi>French</hi> Princeſs, of whom care has been taken to put her out of a condition of having Children before ſhew was ſuf<g ref="char:EOLhyphen"/>fered, to go out of the Kingdom. I have ever heard, that when a Woman is brought to Bed, it is an eaſie matter to hinder her from having any more Children; but I cannot tell whether this ſecret may be extended as far as a Maid. However, for my part, I am not learned in theſe matters.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>So that according to what thou ſaiſt, here's the <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Monarchy at an end; but is there not a Son of ſome Daugh<g ref="char:EOLhyphen"/>ter of <hi>Spain</hi> who may keep up the glory which I acquired when I was in the World?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="17" facs="tcp:47406:9"/>Volcart.</speaker>
+               <p>Ay, ay, do not put your ſelf in pain about that mat<g ref="char:EOLhyphen"/>ter, the eldeſt Siſter of our Prince was married about thirty Years ſince to <hi>Lewis the Great,</hi> ſhe has left a <hi>Dauphin,</hi> and the King his Father, who is not aſleep when there's any thing to be gotten, has already ſeiz'd of one part of <hi>Flanders</hi> under pre<g ref="char:EOLhyphen"/>tence of this Succeſſion.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>But the time is not yet come, and therefore he muſt wait with patience whether he will or no.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>You do not know him, he is a very Devil at Pro<g ref="char:EOLhyphen"/>ceſſes and Law Suits; the deſire of having is ſo great in him, that without murthering People, he finds ways to ſeize on their Eſtates, he has a thouſand <hi>Monſieur Ravaux</hi> at Wages, they are turning over Books Night and Day to find what he deſires, and when the Laws are againſt 'em, they will make new ones, ra<g ref="char:EOLhyphen"/>ther than fail of their Buſineſs. I know not where he picks up theſe Petty Foggers, but they guild over their matters ſo well, that they ſeem to have the reaſon on their ſide. It was under ſuch a ſort of pretence, that he entered into <hi>Flanders</hi> about twen<g ref="char:EOLhyphen"/>ty Years ſince, and had our Neighbours ſuffered him, he had made fine work of it in three Months time, for he took I know not how many places. The following Winter he conquered the <hi>Comté</hi> in eight Days, having with his <hi>Loüis d'Or's</hi> corrupted the Governour, who was an old Bigot, who pretended to carry Candles to the Saints, whilſt he ſet up his before the Altar of ſome Wench. The moſt Chriſtian King caus'd him to come into <hi>France</hi> after this, as into a proper place to content his fan<g ref="char:EOLhyphen"/>cy; but having not every Day ſuch Provinces to ſell as <hi>la Comté,</hi> he was forced to content himſelf with one Miſtriſs, when he had not Means to purchaſe more. God reward our good Neighbours the <hi>Dutch,</hi> who began from that time to aſſiſt us, without them we had ſuffered far more; for theſe <hi>French</hi> De<g ref="char:EOLhyphen"/>vils came to our very Walls inſulting over us; I would have kill'd one great he Rogue, who came inſolently and turn'd up his Breech at us, having purſued our Guard to the Counter<g ref="char:EOLhyphen"/>ſcarp what a fine mark this would have been, his name was <hi>la Serre,</hi> a Lieutenant of the <hi>Gard de Corps,</hi> a Fellow inſolent, if ever there was any, witneſs what he did ſince to <hi>Madameiſelle de Guiſe;</hi> I believe had this been, and this Princeſs had known it, ſhe would have ſettled a Penſion on me for life. But of miſ<g ref="char:EOLhyphen"/>fortune my Piece went not off, not but that it was a good one,
+<pb n="18" facs="tcp:47406:10"/> but I had forgot to charge it; ſo greatly was I diſordered in my mind.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>What you were very angry then?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>I did not know whereabouts I was! What, a Rogue come and let down his Breeches! and ſhew his Arſe to civil People: For an Officer to do this, this was ſuch an unſeemly ſight! the Villain makes my Blood riſe. But he is, it ſeems, a Fellow that has not only two Faces, but two Wives; who are both yet alive, or at leaſt were ſo a little while ſince. The King knows this, and <hi>Madamoiſelle de Guiſe</hi> did not forget to acquaint him with it; but being, as he is, <hi>Lewis the Great,</hi> and not <hi>Lewis the Juſt,</hi> the Villain may Marry two others, if he will, without any danger from the Law.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>However, this is a matter of conſequence in a State, and a Prince ought not to ſuffer it.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Why, don't you ſay, This is not Chriſtian like with<g ref="char:EOLhyphen"/>out encloſing the Crime within the bounds of Policy; ſhould a Man of the other World expreſs himſelf at this rate; I that am ſtill in this, would not ſpeak thus; but you make good that old threadbare ſaying, <hi>Quo ſemel eſt imbuta, &amp;c.</hi> But pray how long have you been below? and how long is it ſince you came forth? I believe you have been better here than where you are at preſent, ſeeing that after ſo long an Apprenticeſhip your talk is ſtill of one place, and not a word of the other; this is not a Note that the <hi>Lutheran</hi> Religion is ſo good, but rather a mark that we muſt remain here as long as we can.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Thou maiſt be miſtaken in thy conjectures. How<g ref="char:EOLhyphen"/>ever, believe what thou wilt, its not permitted me, to unde<g ref="char:EOLhyphen"/>ceive thee; the dead ſpeak not ſo freely as the living; they are enjoyned ſilence.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>If it be ſo, I would adviſe all our <hi>Bruſſels</hi> Ladies, to have always to do with the dead; and as little commerce as may be with the living: by which means their Adventures would not become ſo publick. I ſaw a Liſt the other Day of near two hundred of very high Dames, who were all in by Name and Surname; and how many Gallants they had a<g ref="char:EOLhyphen"/>piece; and it muſt be granted they are not ill provided, if the Liſt be true. Thoſe that paſs among us for the moſt modeſt, have only one Gallant at a time, but they change when they think fitting; you, for your part, grave and great Sir, needed
+<pb n="19" facs="tcp:47406:10"/> only one of theſe to heat you, when you lay freezing before <hi>Metz.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>But now thou talk'ſt of <hi>Metz,</hi> have not my Deſcendants or Nephews found out a way to revenge the affront I receiv'd there, by the perfidiouſneſs of <hi>Henry</hi> II. who ſo baſely ſeiz'd on it; could they find in their Hearts to leave ſo conſiderable a place in my Enemies Hands, with the two others, which they ſurpriz'd at the ſame time? This concerned <hi>Maximilian</hi> my Bro<g ref="char:EOLhyphen"/>ther, and his Children; prethee let me know what they have done in this matter, that I may comfort my ſelf by the know<g ref="char:EOLhyphen"/>ledge of the good condition the Houſe of <hi>Auſtria</hi> lies in on that ſide, and how 'tis with her in <hi>Spain,</hi> and theſe Pro<g ref="char:EOLhyphen"/>vinces.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>I can tell you nothing on this Head, that will much content you; not but that <hi>Maximilian</hi> and his Son have follow'd your Maxims; they have endeavour'd, as much as they could, under pretence of Religion, to make themſelves formidable in the Empire; tho', if one may believe ſeveral good Hiſtorians, they were no leſs affected than you to the <hi>Lutheran</hi> Doctrines. But, in ſine, their deſigns being too well known to ſucceed by this means, there aroſe ſo many Factions againſt them, that they left the King of <hi>France</hi> at reſt, to apply themſelves to that which was moſt urgent.</p>
+               <p>Since that, we have ſeen one of their Succeſſors nearer the happy terminating his Enterpriſes, if <hi>France,</hi> who with good reaſon miſtruſted his Ambition, had not excited the King of <hi>Swedeland</hi> to oppoſe him. He was a Prodigy for Valour, Con<g ref="char:EOLhyphen"/>duct, and good Fortune; and did as much in two Years as ano<g ref="char:EOLhyphen"/>ther would have thought himſelf happy to have perform'd in a long Life; and had he not ended his Days in ſo fair a begin<g ref="char:EOLhyphen"/>ning, by a mortal ſtroak at the Battle of <hi>Lutzen,</hi> he had placed himſelf on the Imperial Throne, and driven out the Deſcen<g ref="char:EOLhyphen"/>dants of <hi>Maximilian.</hi> There are who have attributed this to the <hi>French,</hi> ſuppoſing they had conceiv'd a jealouſie at his Power, but withall this, thoſe that really knew how matters paſſed, are agreed, That his misfortune came, in that there aroſe a thick Miſt in the beginning of the Battel, which hindred him from ſeeing a Squadron that advanced; and which gave him the mortal Blow we mention'd. Some of his Party perceiv'd his Death before the end of the Combat, having ſeen his Horſe,
+<pb n="20" facs="tcp:47406:11"/> whoſe Saddle was all covered with Blood, go from Squadron to Squadron, as if he had been to ſeek his Maſter; but having had the diſcretion to keep within themſelves the grief they felt, they loſt not their Courage, ſo that they carried away the Victo<g ref="char:EOLhyphen"/>ry, which this great Prince had given a beginning to.</p>
+               <p>This Death brought ſome comfort to your Deſcendants, thinking that after the loſs of this Prince, none of his followers could fill his place; but the Duke of <hi>Weimar,</hi> having had the boldneſs to preſent himſelf to Command the Army, fortune aſ<g ref="char:EOLhyphen"/>ſiſted him to ſuch a degree, that he appeared not unworthy this Employ. He conquer'd the ſtrong place of <hi>Briſac;</hi> and dying ſome time after, <hi>France,</hi> who had gotten her Foot into the Pa<g ref="char:EOLhyphen"/>trimony of your Houſe, could not be obliged to retire; but on the contrary, maintain'd her Ground by a Treaty, to which ours were obliged to condeſcend, having other Affairs to at<g ref="char:EOLhyphen"/>tend. Since this, ſo far have they been from finding an oppor<g ref="char:EOLhyphen"/>tunity of recovering their own, that they have added loſs to loſs. <hi>France</hi> is now in poſſeſſion of all the Banks of the <hi>Rhine</hi> from <hi>Baſil</hi> to <hi>Cologne,</hi> excepting <hi>Philipsbourg,</hi> yet does ſhe bridle this place, by means of a Fortreſs, which ſhe has rais'd between <hi>Landaw</hi> and <hi>Germeſſeim.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>And does all the Country on this ſide belong to he?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>No; but ſhe has poſſeſt her ſelf of it by one means or other: <hi>Ravaux</hi> has told her, that this belongs to <hi>France;</hi> ſhe has believ'd him on his bare word, and has not put her ſelf on the trouble of diſcuſſing the matter; all that was comprehend<g ref="char:EOLhyphen"/>ed in ſo vaſt a Country, has been cited to promiſe Fealty, and do Homage. All have been cited to appear, of what Quality ſoever, Princes as well as others, before the Royal Chamber eſtabliſht at <hi>Metz: Ravaux</hi> was both Judge and Party, ſo that they have been forc'd to ſubmit; thoſe that would not, have been driven from their Eſtates, preferring a miſerable life, but glorious to a repoſe; which could not be very calm, ſeeing it muſt have overwhelm'd them with confuſion.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>It is to be ſuppoſed my Deſcendants have given them a place of Retreat, and commended a Conſtancy, which muſt raiſe Emulation in thoſe who have not had the Courage to fol<g ref="char:EOLhyphen"/>low their Example.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="21" facs="tcp:47406:11"/>Volcart.</speaker>
+               <p>Not at all, I have ſeen Princes among them oblig'd to come ſeeking from Court to Court their ſubſiſtence; I have ſeen alſo ſome of 'em forc'd to take a Captains place in the Troops, to receive a pay, which may hinder them from holding out the Hand.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>But I ſuppoſe this fury has extended it ſelf only on the Villages, and that the ſtrong Towns have not been aw'd by <hi>Monſieur Ravaux</hi> and his Decrees. <hi>Luxemburg,</hi> for inſtance, muſt defie this Petty-fogger, any one of its Cannons being capable of ſtopping the Mouth of his pretences.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Miſtake not your ſelf, Sir, <hi>Ravaux</hi> has extended his Juriſdiction to the Gates of this City, and having reduced this Dutchy, which is indeed a very good morſel, the Town it ſelf became ſo ſtraightned, that it has been forc'd to open its Gates.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>This is in incredible, <hi>Luxemburg</hi> the terror of <hi>Champagne!</hi> the Bulwark of <hi>Germany!</hi> the Defence of all the Neighbouring parts.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>With all theſe qualities ſhe has trod in the ſame ſteps as the reſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>And our good Friends the <hi>Hollanders</hi> have ſuffered it; thoſe to whom thou gaveſt that name, and to whom I give it after thee?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>They have ſuffer'd it; a certain good Gentleman has lull'd them aſleep. He became inſpired with the holy Spirit of <hi>France,</hi> which came over in Hogſheads. The Embaſſador ſhed it abroad with full Hands on him; and for recompence, this Embaſſador bears it to this Day on his Cloak: curſt be ſuch intereſt People! This Villain has ſold his Country as the Butch<g ref="char:EOLhyphen"/>ers ſell Meat in the Market: and curſed moreover be the—Well, I dare not ſay more, it is not always ſeaſonable to ſay whatever a Man knows, eſpecially when one is to ſpeak of great Perſonages.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>However, ſpeak on, I'll warrant no harm ſhall come on it.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Ay, <hi>Monſieur Charles the Fifth,</hi> are you in a Dream, or do you think I am in one? Thoſe warrants muſt needs be ve<g ref="char:EOLhyphen"/>ry good which thoſe of the other World make; and where ſhall I go to ſeek my Surety?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="22" facs="tcp:47406:12"/>Ghoſt.</speaker>
+               <p>I ſay ſpeak on, my name alone is ſufficient to protect thee from all Inſults.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>This is very pleaſant truly, but I would willingly know one thing firſt; what reception did you give the Mar<g ref="char:EOLhyphen"/>queſs of <hi>Grana</hi> below? Is he one of your Friends?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>I never ſaw him, nor ſo much as heard of him; is he one of the Marqueſſes <hi>de Grana</hi> of <hi>Italy?</hi> I know that Fa<g ref="char:EOLhyphen"/>mily.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Very well.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>But are you not a Friend of his Friends, or of ſome of his Relations, for the Duke of <hi>Arſchot</hi> married his Daugh<g ref="char:EOLhyphen"/>ter?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>The Houſe of <hi>Arſchot</hi> has been ever ſuſpected by me, ſo that this ought to be no obſtacle in thy Mind; more<g ref="char:EOLhyphen"/>over, I ſwear to thee, that I know no body that is in his In<g ref="char:EOLhyphen"/>tereſts.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>How you pleaſe me now! I had like to burſt, like an old cracke Musket, never ſecret weigh'd ſo heavy with me: know then that he was a great Villain; in a word, the Man that betray'd the place.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Was he Governour of it?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>No, hang him; a far honeſter Man than he: but for our ſins, and thoſe of your Family, he was Governour of all the <hi>Low Countries.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Go on pray.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Why, I tell you, he ſold the place, and would have moreover ſold all the reſt, had not the Devil come behind him and broke his Neck; he had a Belly like a Drum; he would<g ref="char:punc">▪</g> Heaven be prais'd, needs drink the <hi>Spaw</hi> Waters, but they made him burſt, to the great ſatisfaction of all honeſt People. His Widow did not much bemoan him: ſhe had married him I know not how; 'tis true, 'twas her Mother that made the Match: however it be, married ſhe is again to Count <hi>Eg<g ref="char:EOLhyphen"/>mont.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Thou ſpeakeſt very clear, and one needs only Ears to underſtand thee. But let's come to our ſubject, the Marqueſs of <hi>Grana.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>To have a full account of that Noble Captain, you muſt know he did not ſtay till the Hour of his Death to betray
+<pb n="23" facs="tcp:47406:12"/> his Maſter. He was the greateſt boaſter, perhaps, as ever was; according to him, there was never an honeſt Man in the World but himſelf; and to appear ſuch, there were no Tricks which he made not uſe of. I have heard Perſons of good Worth and Credit ſay, That the Emperor after the Battel of St. <hi>Go<g ref="char:EOLhyphen"/>dard,</hi> having put his Army into Winter Quarters, he gave him notice under-hand, That all the Officers, from the higheſt to the loweſt, were extreme vexatious to the People: he did more, he cauſed the People to complain of this themſelves; and, ſeeing the buſineſs would come to an Inqueſt, he abſtain'd from Pil<g ref="char:EOLhyphen"/>laging, tho' he had as good Fingers for it as another. This hapned juſt as he foreſaw it, the Emperor caus'd <hi>Memorandums</hi> to be given him of all that was done; and there was only he, exempt from accuſation.</p>
+               <p>He hereby inſinuated himſelf into the Emperors Affections, acted the part of a diſtintereſt Man, and to make this Prince believe he gain'd nothing by his ſervice, he ſold a conſiderable Eſtate in <hi>Bohemia:</hi> But how great (ſoever an Hypocrite a Man may be, it being hard to diſſemble long) he lent him four hun<g ref="char:EOLhyphen"/>dred thouſand <hi>Livers</hi> a while after; for which the Emperor ſtill pays Uſe to his Executors.</p>
+               <p>In the mean time, believing he only ſaw clear, he continued to act the part of a Man zealous for the Emperors Intereſts; and this Prince having named him to go to <hi>Spain,</hi> he requeſted a private Hearing. The Emperor having granted it him, he threw himſelf at his Feet, and continuing in his Hypocriſie, be<g ref="char:EOLhyphen"/>ſought him to obſerve two Perſons he had at his Court; one of which, ſaid he was too heavy a Man to be truſted with Affairs of Importance; and the other too mercurial and unfaithful to rely on: he deſign'd by the firſt, Prince <hi>Herman</hi> of <hi>Baden;</hi> and by the ſecond, the Prince of <hi>Saxony.</hi> However the Emperor gave him good words, as believing he ſpake from the ſimplici<g ref="char:EOLhyphen"/>ty of his Heart, and he parted out of the Emperor's preſence with great ſatisfaction. He did what he had to do in <hi>Spain,</hi> but in his return through <hi>France, Monſieur de St. Luc,</hi> the Kings Lieutenant in <hi>Guienne</hi> regal'd him, giving him to underſtand, that if he would impart to the King his Maſter, what Secrets paſt in the Emperor's Council, he ſhould always be preſented with one Thing or other which ſhould countervail his pains. The Marqueſs made not himſelf more ſcrupulous than was
+<pb n="24" facs="tcp:47406:13"/> neceſſary for raiſing his Market, and being both agreed of their buſineſs, the matter was faithfully tranſacted on both ſides: There was nothing done in the Emperor's Council, of which <hi>France</hi> was not advertiſed.</p>
+               <p>In the mean time War being declared between theſe two States it was ſtill the ſame thing, ſhe had Intelligence of whatever paſt in the Council of War, ſo that it was no difficult matter for her to ſhield her ſelf from the ſtrokes intended her. In fine, the matter became ſo publick at <hi>Vienna</hi> and other places, altho' he thought it lay conceal'd, that a great Merchant of this City told one of his ſervants, not knowing however he belong'd to him, but who came to him to change <hi>Lewis d'Or's,</hi> that there was hardly any other Money to be ſeen now, that the Mar<g ref="char:EOLhyphen"/>queſs <hi>de Grana</hi> receiv'd ſo many of 'em for his Treaſons. <hi>France</hi> morever made him a preſent of a Sword garniſht with Diamonds, when the Imperial Army lay encampt at <hi>Mouzon</hi> in the Year 1676. and tho' it was brought him, as from the pre<g ref="char:EOLhyphen"/>ſent Prince of <hi>Condé</hi> as an acknowledgment (according to what he ſaid) that he had ſent Horſes to this Prince, it being known he had been well paid for them, ſo there were none but Fools that believ'd it: and in effect the Liberality of this Family ne<g ref="char:EOLhyphen"/>ver extended it ſelf to the making of a Preſent of this nature, ſeeing ſhe has enough to do to pay her Debts.</p>
+               <p>In the mean time the Emperor having been the only Perſon, who did not perceive his infidelity, ſent him a ſecond time into <hi>Spain,</hi> in Quality of Embaſſador extraordinary. Here it was, that continuing admirably well to play his Game, he decried in ſuch a manner the Prince of <hi>Parma,</hi> who was ſent Gover<g ref="char:EOLhyphen"/>nour-General of the <hi>Low Countries,</hi> that he put into all the Mi<g ref="char:EOLhyphen"/>niſters Heads that theſe Provinces were loſt, without redempti<g ref="char:EOLhyphen"/>on, if he were not recall'd. There were ſeveral Councils held hereupon; and this Hypocrite, having had the time whilſt all this paſt, to have Letters of Recommendation ſent out of <hi>Ger<g ref="char:EOLhyphen"/>many</hi> for him, he had orders to go and drive away this Prince, and to take his place.</p>
+               <p>Scarce was this order diſpatcht, when fearing it would be revoked, he took leave <hi>incognito</hi> of his Catholick Majeſty, and parted the ſame Night. If we may believe the common report, he did wiſely in being in ſuch haſte, ſeeing the Council of <hi>Spain</hi> had no ſooner done the thing, but repented of it. But he being
+<pb n="25" facs="tcp:47406:13"/> now in the Road, the buſineſs ſtuck at home, his Miniſtry being to be judg'd of by its Succeſs.</p>
+               <p>
+                  <hi>France</hi> was ſoon advertis'd of his Catholick Majeſties choice, and being on the point of attacking <hi>Luxembourg,</hi> ſhe was very willing to make tryal whether his Preferment had not chang'd his Heart. She ſent to meet him on the way, but he would not ſtay to explain himſelf there, but told the Currier, who preſent<g ref="char:EOLhyphen"/>ed him a Packet, that he ſhould make ſome ſtay in <hi>England,</hi> un<g ref="char:EOLhyphen"/>der pretence of refreſhing himſelf (for he was taking the Sea to finiſh his Voyage) and that there ſome Perſon ſhould be ap<g ref="char:EOLhyphen"/>pointed, in whom he might put confidence. There was no failer of Money, that being already again ſent him. So that <hi>France</hi> being ſure of him, perſiſted in her Enterprize.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Thou knoweſt a great deal for a Man of thy Quality.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Hear the reſt: The firſt thing he did, when he was arriv'd, was to draw out Troops from <hi>Luxembourg,</hi> under pretence of Garriſoning better <hi>Mons</hi> and <hi>Namur;</hi> although theſe two Places were in no danger; by reaſon theſe were the Bar the King had granted to the <hi>Hollanders</hi> by the Peace of <hi>Ni<g ref="char:EOLhyphen"/>miguen,</hi> and he knew as well as any other, that the King of <hi>France</hi> could not Attack them, without making them take up their Arms. But pretending to be ignorant, <hi>Luxembourg</hi> was immediately in<g ref="char:EOLhyphen"/>veſted, whilſt the moſt Chriſtian King ſet himſelf at the head of an Army, to hinder its being ſuccour'd; but no Body ſtirr'd. The Emperor was not in a condition to do it, having the Turks on his Shoulders; the <hi>Hollanders</hi> on their ſide were divided amongſt themſelves by the <hi>French</hi> Embaſſadors Intrigues, and the great Man I now mention'd. And now you have an account how the Place was loſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>What a Traitor was this! And did neither the Em<g ref="char:EOLhyphen"/>peror or King of <hi>Spain</hi> ſhew any reſentment at this?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>I know nothing of that, all that I know is, that the Governour took Poſt ſome days after for <hi>Spain,</hi> being furniſht with good Certificates againſt him, wherein all the Officers of his Garriſon teſtified, that if the Marquiſs <hi>de Grana</hi> had pleas'd, the Place would not have been loſt. But there were Robbers Poſted in the Road, who took away both his Papers and Mo<g ref="char:EOLhyphen"/>ney. This Robbery was committed near <hi>Orleans,</hi> through which he paſt, having obtain'd a Paſſport from the Moſt Chriſtian King, on which it is good to make Reflection, that nothing can better convince us of the Intelligence above mention'd, than
+<pb n="26" facs="tcp:47406:14"/> this pretended Theft, which was committed in a Kingdom, wherein that care is taken, that for this Twenty five or Thirty years, the like has never been known. But for a farther Mark, that theſe were not Robbers, the Money was reſtor'd to him at <hi>Lyons,</hi> his Papers being the only things retain'd.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Theſe are very ſtrange things thou telleſt me of. How<g ref="char:EOLhyphen"/>ever I muſt needs ſay to thee, that Europe muſt be buried in a more than <hi>Cimmerian</hi> darkneſs, not to awake at the noiſe of ſo many horrid Enterprizes. But go on I pray thee.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Had you been here in the time when this hapned, you would have quickly got you back again to the other World, for you would have thought you had been in a Hell, ſuch a gene<g ref="char:EOLhyphen"/>ral devaſtation and burning was here in all theſe Provinces.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>And who was the Cauſe of all this?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>The Moſt Chriſtian King.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Why, what was the matter?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Becauſe ſuch was his good Will and Pleaſure, and he had a mind to confound all <hi>Flanders.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>If this be ſo, why doſt call him the Moſt Chriſtian King? how can this Name agree with him after ſuch Out<g ref="char:EOLhyphen"/>rages, which are only for <hi>Barbarians,</hi> and the common Enemy of Chriſtendom? But perhaps thou concealeſt from me, that 'twas through default of Payment of Contributions, in which Caſe its a common uſe introduced in War, to proceed to this extremity.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>No, I conceal nothing from you, but ſhall tell you on the contrary, that the Contributions were not only paid, but that the Country having been threatned with burnings, after this, it taxed it ſelf in a vaſt Sum to redeem it ſelf from this violence. But the Payment was no ſooner made, but that with the Sword in one hand, and the Faggot in another, the <hi>French</hi> ſhew'd us ſuch a <hi>French</hi> Trick, as conſumed all before them.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>But what kind of People are theſe <hi>French</hi> then now a days? It ſeems to me they were heretofore human Creatures.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>They would be ſo ſtill, had they leſs ſucceſs, but this renders theſe People intollerably inſolent to all Nations, for they pretend now to be Maſters every where; yet the King of <hi>France</hi> has reduced them to ſuch miſery, that it is a great thing if the Commonalty have Bread to eat. The Man of Quality is his Slave, through the neceſſity he is in of making his Court to him, he muſt ſpend all he is worth in attending him ſometimes to
+<pb n="27" facs="tcp:47406:14"/> the<g ref="char:punc">▪</g> Wars, other whiles in Journys, where he muſt be always at ſome new expence. <hi>Verſailles</hi> moreover is a Place which is no leſs chargeable to him, he muſt keep Houſe there, and alſo at <hi>Paris,</hi> which ſo waſtes him, that he has not for the moſt part a <hi>Sous</hi> in his Pocket, he muſt now and then dine at other Folks Tables, otherwiſe he could not live. Here paſt by ſome days ſince, one of theſe honeſt Gentlemen, who ſwore to me that Monſieur the <hi>Dauphin</hi> had given him Money ſeveral times, when he playd and won, for himſelf and ſeveral other Perſons of Qua<g ref="char:EOLhyphen"/>lity, whom he nam'd to me, a Piece of four Piſtols, to bear their charges to <hi>Paris;</hi> he likewiſe told me, that each of them were ſo far from concealing their Miſery, that it became a mat<g ref="char:EOLhyphen"/>ter of ſport. Yet all theſe poor wretches are full of Rhodo<g ref="char:EOLhyphen"/>montadoes, <hi>No Prince was ever ſo great and brave as their King,</hi> and <hi>no Empire comparable to their Monarchy.</hi> If we deſcend from the Man of Quality to him of the Gown, it's near the matter the ſame under another Figure; they are overwhelm'd with Debts, and though he be not oblig'd to ſuch expence, and conſequently can better ſubſiſt, yet nothing is equal to his Oeconomy, be<g ref="char:EOLhyphen"/>cauſe ſcarcity has a long time reign'd in his Houſe. He has un<g ref="char:EOLhyphen"/>dergone a Thouſand Taxes under the name of Loans, and he fears every day more, without knowing where to have a Far<g ref="char:EOLhyphen"/>thing to pay them. This makes him chagrin and uneaſie, and he ſees no remedy any where, becauſe he is hindred from ſelling Juſtice, which was heretofore a great help to People of his Pro<g ref="char:EOLhyphen"/>feſſion. Hereby is ſtopt the Complaints of the ordinary Peo<g ref="char:EOLhyphen"/>ple, who ſeeing themſelves ſheltred from the violence of thoſe who are above them, comfort themſelves in being ſqueez'd by the Maſter and not by the Servants. Yet if we make reflection on their Condition, it is as bad as that of others, if not worſe. In the general miſery of the Kingdom, they find not any one of whom they may get a livelyhood; if the great ones buy any thing it is on truſt, or if there be any one amongſt them who has ready Money, they haggle like the meaneſt Tradſeman, being no longer edg'd with Generoſity. In fine, if we examin <hi>Paris,</hi> where there ſhould be more plenty, we ſhall find that all is in deſolation from the higheſt to the loweſt, every body diſcontent<g ref="char:EOLhyphen"/>ed, from the Mareſchal of <hi>France</hi> to the Common Soldier, from the Duke and Peer to the meaneſt Courtier, from the firſt Pre<g ref="char:EOLhyphen"/>ſident to the laſt Clark of the Pallace, and in fine, from the Chief Citizen to the poor Cobler.</p>
+               <pb n="28" facs="tcp:47406:15"/>
+               <p>If we caſt our Eyes on the Country, we ſhall find it the ſame or rather worſe, they cannot afford themſelves Bread, they Plow its true, but they have not wherewithal to Sow; their Taxes are ſo exceſſive, that they have not Beds to lye on, or ſcarcely any ſort of Cloaths to put on their Backs; and to whom does the Profit of all this come, but to the King? What ſlavery is this? What wretches are theſe? and yet as wretched as they are, you ſhall hear 'em continually extolling the Glory of their Monarch and the greatneſs of <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Thou ſurprifest me greatly I profeſs by theſe Relations, for the <hi>French</hi> are in their own Natures a volatil, uneaſie ſort of People; prethee what's become of all the great Lords to whom they were wont to have recourſe in their diſcontents?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>There are no ſuch now; for from the <hi>Dauphin</hi> to the meaneſt Gentleman, the King keeps them all ſo low, that they cannot move; beſides he has his Spyes every where, who give him an account of what paſſes; and there being ſo many who have not whereon to ſubſiſt, there are ſeveral who would have heretofore bluſht, had they been only ſuſpected to have been of this employ, who now with the greateſt earneſtneſs ſue for it in the ſight of their Friends.</p>
+               <p>Monſieur <hi>Le Dauphin</hi> is a good Prince, who provided he has but opportunity to hunt, concerns himſelf no farther. The Duke of <hi>Orleans</hi> loves play, and to be hung with Ribbands from head to foot, to hear pleaſant Tales, and to be nice and ſqueamiſh; as for any thing elſe he minds it not.</p>
+               <p>The Chevalier <hi>de Lorrain,</hi> who is his Favourite of many years, and who has ſometimes ſpoke to him of the Court, with a great deal of liberty, although he himſelf be but an indifferent Man, is now wholly chang'd by a ſecret Penſion he receives thence; being the firſt and chief Spy whom the King keeps near him, and though his Majeſty has others, its only to be certain that he is faithful to him.</p>
+               <p>The Prince of <hi>Conde</hi> does not degenerate from his Fathers Ge<g ref="char:EOLhyphen"/>neroſity, and the vertue of his Anceſtors; but in Inheriting their good Qualities, he alſo inherits their bad, he is covetous to exceſs, and in this unhappy Paſſion he ſees nothing worthy of him, but the deſire of treaſuring up; provided he can lock himſelf cloſe in with <hi>Gourville,</hi> to caſt up how much his Revenue is encreaſt ſince the laſt year, and what courſe may be taken ſtill to aug<g ref="char:EOLhyphen"/>ment it, this is all he thinks of. The King who knew dextriouſly
+<pb n="29" facs="tcp:47406:15"/> to let the time paſs wherein he was greedy of Laurels, without giving him any employ, does not fear now that he is paſt Forty five, that he Plots how to diſturb the State; he is well pleas'd in ſeeing him mind his own Affairs, and the Proceſs which the Succeſſion of <hi>Mademoiſelle de Guiſe</hi> has entangled him in. He knows very well that when a Man is poſſeſt by theſe two Paſſi<g ref="char:EOLhyphen"/>ons, they ſufficiently fill the Head, and ſcarce leave room for other Thoughts.</p>
+               <p>The Prince <hi>de Conti</hi> has hitherto minded only his Pleaſures, although the deceaſed Prince of <hi>Conde</hi> endeavour'd to make him underſtand ſeveral times, that a Prince of the Blood ſhould ſteer another Courſe, if he intended to be in any ſort conſide<g ref="char:EOLhyphen"/>rable. 'Tis not yet ſeen that he has prevail'd on his Mind to make his profit of ſo judicious a Leſſon, perhaps in time he may think better of it, but till that happens, it will be to penetrate into the future, to ſay that he can be ever the Head of a Party, unleſs this Rank be given him for his being a Prince of the Blood.</p>
+               <p>And theſe are the Princes of the Royal Family of <hi>France;</hi> for I take no notice of Monſieur the <hi>Dauphin</hi>'s Children, of the Duke <hi>de Chartres</hi> only Son of the Duke of <hi>Orleans,</hi> nor of the Duke of <hi>Bourbon,</hi> who are all ſo young, that it would be but meer mockery, to have recourſe to them in an Affair as this we ſpeak of. I have willingly given you their Characters, to ſhew you that they are not like thoſe which were in your time, there are none among theſe like the Conſtable of <hi>Bourbon,</hi> who was ſuch a great help to you in the Wars which you had with <hi>Francis</hi> I. and without whom, perhaps you had not met with ſuch ſucceſs. Don't deſire me to proceed any farther in the Anatomiſing of this Kingdom; ſhould I come to ſpeak to you of Princes that they call Strangers, I ſhould have ſuch wretchedneſs to deſcribe to you, as would raiſe bluſhing in you, and confuſion in me, in the relating them. Inſtead of thoſe Dukes of <hi>Guiſe,</hi> ſo famous in the Hiſtory of the paſt Age, I can ſhew you none but Perſons enervated with ſoftneſs and debauches, Perſons that have nothing of Princes in them but the Name, and who between you and I, cannot remember themſelves without a ſelf-condemnation: Such a Portrait as this is muſt needs be unpleaſant, and we had better draw the Curtain before it. I muſt do the ſame in re<g ref="char:EOLhyphen"/>ſpect of the other Grandees of the Kingdom. And what will you think, when inſtead of the <hi>Montmorancys, Chatillons,</hi> and ſo many other great Perſonages in your time, I can ſhew you only
+<pb n="30" facs="tcp:47406:16"/> Men that are meer Slaves, not only of the Monarchy, but of the Miniſtry? It being a Cuſtom eſtabliſht among them, to make Alliances now in Rich Families, which is the cauſe that that greatneſs of mind, by which their Anceſtors were heretofore ſo recommendable, is not to be found amongſt them; they ſee eve<g ref="char:EOLhyphen"/>ry thing, they ſuffer every thing without ſaying a word, and are ſo far from oppoſing it, as that they be the firſt who approve it, through a baſe complacency. It is no longer the time wherein they may ſpeak their minds to the King, they only buſie them<g ref="char:EOLhyphen"/>ſelves now with Trifles, and among ſo many Dukes, of which the Court of <hi>France</hi> conſiſts, ſcarcely is there to be found one, on whom one may reckon, if it concern'd only the King of his Salvation, to the prejudice of a Miniſter: I can find on the other hand, enough who will procure him Miſtreſſes if he has occaſi<g ref="char:EOLhyphen"/>on for them, and even without ſeeking them in another Fami<g ref="char:EOLhyphen"/>ly, would take them out of their own Bed. I don't ſay this by rote, I know what I ſay as well as another.</p>
+               <p>This Prince being become in love with a Princeſs not far hence, and intending to teſtifie his Love in a manner a little fa<g ref="char:EOLhyphen"/>miliar, as this did not pleaſe her, ſo ſhe repell'd him a little ſcur<g ref="char:EOLhyphen"/>vily, without remembring he was not wont to be treated with ſuch Careſſes. In leaving her, he told it her Father, deſiring him not to ſend her to Court; but he inſtead of being like her, was one of thoſe Princes I lately deſcribed; told him ſhe was a fooliſh Girl, and that ſhe had loſt her Fortune, and not content with this Anſwer, he went again to His Majeſty, excuſing what had paſt, telling him in formal Terms, that if he pleas'd to com<g ref="char:EOLhyphen"/>mand it, he would himſelf bring her into his Arms.</p>
+               <p>And theſe are the Dukes and Princes to be met with in this Court, one of them knows perfectly well to Cog a Dye, and has his Trade from Father to Son; another carries on a de<g ref="char:EOLhyphen"/>bauch to exceſs; and having told his Wife ſeveral times there is no true Pleaſure but in Diſorder, he has ſo well inſinuated this Leſſon into her, that ſhe puts it every day in practice, every one is welcome to her, whether he comes to ſee her, or one of her Friends, ſhe takes a particular ſatisfaction in doing her Neighbour a Pleaſure, affirming this ought to be the humour of all Civil People. Another lives without Faith, without Law, and without Religion, and though he draws near Sixty, he is as young, as impious, as if he had never time to know himſelf. Another runs from one Wench to another, from Morning till
+<pb n="31" facs="tcp:47406:16"/> Night; another to the Churches, believing it good to appear De<g ref="char:EOLhyphen"/>vout to get Credit.</p>
+               <p>I could make you a Picture of all the reſt, but it being ſuf<g ref="char:EOLhyphen"/>ficient to judge of the whole Piece by a Pattern, it would be to tire you to relate to you ſtill the ſame thing; one is form'd from the Mould of another, and excepting two, one of which has high Thoughts, and worthy of a better Fortune than he has; and the other which is a very worthy Perſon, although the Son of a Father who was a Fool to his Grave, I ſhall not paſs for a Calumniator, when I ſhall ſay, that the reſt is mixt Ware. Not but that there are ſome among them who act the Parts of honeſt Men, but I am afraid that he who ſhall look well into the mat<g ref="char:EOLhyphen"/>ter, will find more Hypocriſie in their Actions than real Piety; Not that I am for thoſe affected Devotions, which are perform'd to dazle the Eyes of the People, for I love rather to ſay a <hi>Pater</hi> heartily in my Cloſet, than a thouſand in the ſight of others. When one is ſo devout, commonly he is not ſo buſied in carry<g ref="char:EOLhyphen"/>ing on Intrigues. Yet thoſe I ſpeak of are in them over head and ears, and are mad if any of them chance to be diſcovered. In ſpeaking of this, methinks I ſee one of our late Governours, whom I ſupris'd one day, having a great String of Beads, wound, as it were, about his Wriſt, and yet with the ſame Hand careſt very nearly an exceeding handſom Lady. It's true, theſe Beads of his were as familiar to him as the Monks Breviary is to him.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Perhaps theſe Beads had a certain Vertue which thou knowſt not of; there is a certain <hi>Indian</hi> Wood which 'tis ſaid does wonders, and perhaps his Beads were made of it, and he was minded to try the Experiment.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>All this is uſeleſs, and without vigor love cannot laſt long; whatever Chaplet a Man has, were it of this Wood you ſpeak of, it would have no effect on me if I was a Woman, unleſs I was perſwaded it had this Vertue to make a Man vigo<g ref="char:EOLhyphen"/>rous, all Ladys having great eſteem for that; and I remember that a certain Monſieur being arriv'd in theſe Parts ſome Months ago, all the fine Dames of <hi>Bruſſels</hi> were for being of his Friends, not that he was an handſomer Man than another, but becauſe there were reported marvellous things of him. The deceaſed Prince of <hi>Conde</hi> who had heard of him as well others, deſirous to know whether this was true, askt his Father one day the Queſtion, who is ſtill alive, or I am much miſtaken; but this
+<pb n="32" facs="tcp:47406:17"/> good Man, who was no Courtier, anſwer'd him ſeriouſly he could not tell, ſeeing his Son had never made him his Confident in that matter; but this I know, ſaith he, that if it be ſo, he has it from his Mother, not from me.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Thou relateſt matters very pleaſantly, but doſt not mind how much thou forgetteſt thy ſelf in thy large Diſcourſe of the Court of <hi>France,</hi> having quite loſt the Subject we were upon, neither do I know how thou canſt return to it.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>This will be no ſuch hard matter, and to ſpeak freely, as old as I am, I do not ſo greatly doat as you think for. Does a Man talk idly, when he recites the Condition of an Enemies Country? and how can you deal with it, unleſs you know its ſtrength and weakneſs? I muſt tell you farther, though you ſtill perſiſt in your Opinion, that <hi>France</hi> has moreover other Male<g ref="char:EOLhyphen"/>contents, than thoſe I now mentioned; and though I have told you, that the King of <hi>France</hi> has compaſt his end, in laying low the <hi>Hugonots,</hi> yet this is an <hi>Hydras</hi> Head which ſtill produces ſomething that is new, they are only extirpated in appearance; and ſhould they meet with a favourable opportunity, it's not to be doubted but that they would act the ſame Part, as under the Reign of <hi>Charles</hi> IX. They have only forſook their Religion in appearance, and though I reckon it among impoſſible things for a <hi>French</hi> Man ever to make a good <hi>Spaniard,</hi> yet I believe this is more feaſible than for them ever to become good Catholicks.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Well! prethee what conſequence doſt pretend to draw hence?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>One that to me appears infallible, to wit, that it is not at all the <hi>French</hi> Intereſt to make War at this time; he can<g ref="char:EOLhyphen"/>not but be afraid, that whilſt he ſhall be buſied without, there may ariſe within his Kingdom ſuch a Faction, as ſhall not be in his power to allay.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Still methinks thou wandreſt from our Subject, and haſt no Logical Head.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Ah Maſter <hi>Charles</hi> the Fifth, is it for you to pretend to ſo much Reaſon, who have no Brains? Death has dryed up all your Bones, and a Dogs head and yours make one as good a Figure as the other; don't you perceive that being to diſcourſe with you on a great affair now in hand, and of which I already have given you ſome hints by the by, I pretended to prepare you to relliſh my Reaſons? I have told you that the King of <hi>France</hi> would have made an Elector of <hi>Cologn,</hi> and a Prince of <hi>Liege;</hi> you
+<pb n="33" facs="tcp:47406:17"/> know of what conſequence it is to your Family to have theſe two Perſons in her Intereſts. The pains you were at to bring over the Cardinal <hi>de la Mark,</hi> who poſſeſt this laſt Dignity, is a proof ſufficiently convincing. So now he that is at preſent on the Im<g ref="char:EOLhyphen"/>perial Throne, according to your politic's, has left no Stone unturn'd to put by a blow ſo prejudicial to the Empire: He has ſucceeded, ſeeing the Cardinal <hi>de Furſtemburg,</hi> who is the King of <hi>France's</hi> Creature, has been rejected by the Chapter of <hi>Liege,</hi> which has choſen the Baron <hi>d' Elderen</hi> one of its Members; and Prince <hi>Joſeph Clement</hi> of <hi>Bavaria</hi> is choſen Elector of <hi>Cologn.</hi> I have told you that <hi>Luxembourg</hi> is taken, the <hi>Moſelle</hi> and the <hi>Saar</hi> are alſo ſubjected by the Forts which the King of <hi>France</hi> has rai<g ref="char:EOLhyphen"/>ſed and does ſtill raiſe; <hi>Treves</hi> is diſmantled, and the poor Elector is made a Frenchman againſt his will. This was cauſe ſufficient for the Empire, and all others in Chriſtendom, to betake them<g ref="char:EOLhyphen"/>ſeves to Arms. Had the Cardinal of <hi>Furſtemburg</hi> gain'd his Point, what ſecurity could the Empire expect from ſo trouble<g ref="char:EOLhyphen"/>ſom a Neighbour? How many Creatures muſt <hi>France</hi> have gain'd, when it ſhould be conſidered, that one may by her means not only be rais'd to the higheſt Dignities, but be maintain'd in them againſt all Right and Reaſon? Is there any ordinary Gen<g ref="char:EOLhyphen"/>tleman, but muſt turn all his deſires towards her, hoping ſhe will do for him whatever ſhe intended to do for his Eminency, who ſome twenty years paſt had not wherewithal to maintain a Ser<g ref="char:EOLhyphen"/>vant? What an encouraging Proſpect is this for all clear headed and ambitious Men? In fine, O Monarch without a Crown, re<g ref="char:EOLhyphen"/>call a little that vivacity of Spirit for which you have been hereto<g ref="char:EOLhyphen"/>fore ſo fam'd, and you'l excuſe all my tedious Tranſports on this Subject.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>What wouldſt have me ſay? The Emperor muſt pe<g ref="char:EOLhyphen"/>riſh rather than not maintain the Legitimacy of the Prince of <hi>Bavaria's</hi> Election.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>But pray how ſhall he maintain it? He has enough to do in <hi>Hungary,</hi> our King has few Troops, and leſs Money to raiſe others: the Princes of the Empire are ſlow in their Re<g ref="char:EOLhyphen"/>ſolutions. There are only the <hi>Hollanders,</hi> who are in a condi<g ref="char:EOLhyphen"/>tion of reſiſtance; but do you think they will go and throw themſelves into the Lyons Mouth? Their ſingle Forces are not ſufficient to withſtand thoſe of <hi>France,</hi> and they can do nothing without help.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>The Emperor ſhould temporiſe, and in the mean time
+<pb n="34" facs="tcp:47406:18"/> make Peace in <hi>Hungary,</hi> to the end that all theſe Forces being re-united may bring the Enemy to reaſon.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>But all this time the Cardinal of <hi>Furſtemberg,</hi> who never wants <hi>French</hi> Money, fails not to fortifie his places: you know, moreover, that Poſſeſſion is a Title according to Law. The thunderings of the <hi>Vatican</hi> ſignify nothing now adays, unleſs they be backt by an Army.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>It's true, and therefore a Pope who knows how to manage his Authority, knows what time they are efficacious in; for in <hi>France</hi> People are the leaſt bigotted in any of the <hi>Roman</hi> Countries. This Nation acknowledges, indeed, the Pope to be the viſible Head of the Church, yet only as a matter of Policy, ſhe is too ſubtle to make this a matter of Faith; ſhe knows only that this has been judg'd moſt expedient to preſerve Unity amongſt the Members, but as ſoon as ever a Pope requires too great a belief, ſhe preſently refers him to her Parliament, where theſe four-corner'd Cap People maintain it according to their fancy; and how many Bulls have been burnt by the Hands of the common Hangman?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>As far as I can ſee, it's not only in theſe times that this Aſſembly is Heretical; I thought only <hi>Monſieur Talon,</hi> Ad<g ref="char:EOLhyphen"/>vocate General, had been the ſcabby Sheep that infected the reſt, for he made ſuch a Pleading ſome Months ſince as ſmelt dan<g ref="char:EOLhyphen"/>gerouſly of the Faggot, he treated our Holy Father, as if he had been but a meer <hi>Don Quixot;</hi> ſo that having ſaid of him all that is proper to ſay of one fall'n into madneſs, he made him moreover paſs for a favourer of Hereticks: In fine, I believe it was not long of him that he was not depoſed; but knowing this could not be done in one day, I have heard ſay, he is great<g ref="char:EOLhyphen"/>ly troubled that <hi>Voiſin</hi> and her Diſciples were put to Death, as knowing that one touch with their Hands, would have been capable of obtaining Remiſſion of their Sins; at leaſt, as to the Temporal pains of them.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>Who is then this <hi>Voiſin</hi> thou ſpeakeſt of? It ſeems by thy talk as if I ſhould know her.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>A very worthy vertuous and generous Perſon, if ever there was one in the World, bequeathing Succeſſions to thoſe who needed them, and procuring an entrance into <hi>Pa<g ref="char:EOLhyphen"/>radiſe</hi> for others who were not in haſt to go thither; but as Ver<g ref="char:EOLhyphen"/>tue is not always recompenc'd, ſhe was charg'd with doing all this by means of a certain Powder; ſo that having been thrown
+<pb n="35" facs="tcp:47406:18"/> into Priſon, ſhe had the ſame chance as the Bulls I now ſpake of met with.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Which is to ſay in one word, that ſhe very fairly poy<g ref="char:EOLhyphen"/>ſon'd People.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>You are in the right.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>And thou wouldſt hereby inſinuate, that they would have poyſon'd the Pope.</p>
+               <p>
+                  <hi>Volcart.</hi> I do not wholly affirm that; but that which I would ſay is, That the Court would not be much troubled at his taking a Voyage into the other World; is this ſuch a criminal deſire, and can one wiſh him any thing more advantagious? You ſay not a word; is it that you who have been Emperor make ſuch a great reckoning of this quality, that you prefer it to a place in <hi>Para<g ref="char:EOLhyphen"/>diſe?</hi> If this be ſo, it muſt be acknowledged, that here are a great many People deceived, for I cannot believe there have been diſpatcht from time to time, on any other deſign, ſo many Princes and Princeſſes who died, ſome ſuddenly, others with a little more knowledge of the cauſe. In effect, all this has hap<g ref="char:EOLhyphen"/>ned to 'em from the part of their good Friends, whoſe only de<g ref="char:EOLhyphen"/>ſign is to make them more happy in the other World than they could ever arrive to in this.</p>
+               <p>The deceaſed Madam the Dutcheſs of <hi>Orleans</hi> began the Dance; but ſhe had not time given her to recollect her ſelf, for loving the World as ſhe did, it was fear'd, that through weak<g ref="char:EOLhyphen"/>neſs, ſhe might obſtruct her own happineſs; it has been pro<g ref="char:EOLhyphen"/>bably the ſame in reſpect of the deceaſed <hi>Charles</hi> King of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who was known to be too great a lover of his Pleaſures to ſo eaſily quit them, if he could help it. But there was not ſuch quick work made with the laſt Elector <hi>Palatine.</hi> It being Catholicks that undertook this buſineſs, and the deſire of ma<g ref="char:EOLhyphen"/>king Converts reigning very much with them, they have there<g ref="char:EOLhyphen"/>fore given him time to think on his Conſcience, ſo that it is not their fault, if they could not vanquiſh his hard Heart. They comfort themſelves the more eaſily, that he could not carry his States, whence they had a deſign to drive out the Hereticks; and as they could not attain hereunto, but by his Death, ſo we muſt not think it ſtrange, if they advanced it, and glory in it as a meritorious action. In effect, whatever is done in regard to Religion cannot be ill, which is the Morals of the good Fa<g ref="char:EOLhyphen"/>thers the <hi>Jeſuits,</hi> God preſerve us from 'em, and keep 'em from coming near us; for had I either Houſe or Land joyning to
+<pb n="36" facs="tcp:47406:19"/> theirs, they would quickly ſtrip me of them for the uſe of the Altar.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>It muſt be granted thou runneſt over a great many matters in a ſhort time.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>I acknowledg it; but I deal with you otherwiſe than I would with another, whom I was ſure to ſee another time; how know I, how ſoon you'll vaniſh? I therefore deal out my Merchandiſe to you by whole-ſale, leſt you ſhould eſcape me. And therefore I muſt tell you again, tho' you blame me afreſh for it, that it is not a Year ſince, that by a ſtorke of Charity like to thoſe I now mentioned, the ſecond Son of the deceaſed Duke of <hi>Brandenburg</hi> was ſent to <hi>Paradiſe.</hi> It was fear'd leſt he ſhould become one day Elector, and inebriate himſelf with the vanities of the World, which were ſeen to prevail on him. It's ſaid his eldeſt Brother was to have taken the ſame Voyage, who is now on the Throne; and in fine, he muſt thither ſooner or latter, but by ſmall Journeys. However this will not hinder him from leaving behind him a Prince of his Blood, to Inherit his Countries, ſeeing the Princeſs his Wife has lately given him a Son, to the great content of all honeſt People.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Thou ſurpriſeſt me, and as far as I can ſee, it's not on<g ref="char:EOLhyphen"/>ly in <hi>France</hi> where there are <hi>Voiſins.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>This is not a fit name for theſe Monſters; there was another Woman of a greater Reputation than ſhe, which was the Marqueſs of <hi>Brinvilliers,</hi> Daughter of the Lieutenant Civil of <hi>Paris.</hi> She poyſon'd her own Father, her two Brothers, her Siſter, and her Husband; and for ſo many famous Facts, her name remains conſecrated, to expreſs whatever is moſt rare in this Diabolical Science. A ſmall quantity of Madam <hi>Brinvil<g ref="char:EOLhyphen"/>liers</hi> Medicinal Preparations will make way for any Succeſſion; ſo that it's wondered how the Duke of <hi>Brandenburg</hi> has eſcaped. God preſerve this preſent Pope, for ſhould he prove otherwiſe than favourable to the Court of <hi>France,</hi> he is in danger of Apo<g ref="char:EOLhyphen"/>plectick Fits. Yet, as Pious People reſign themſelves, not only to the Will of God, but make advantage of all conditions, this old Gentleman can cough when he pleaſes, eſpecially when he is importuned by Demands, to which he is not minded to an<g ref="char:EOLhyphen"/>ſwer. It was told me ſome days ſince, That the Cardinal <hi>d' Eſtrée,</hi> who lies at <hi>Rome</hi> ſoliciting the Affairs of <hi>France,</hi> has given this Cough a thouſand times to the Devil, and would have given the Cougher too, had he believed he would have gone to him.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="37" facs="tcp:47406:19"/>Ghost.</speaker>
+               <p>Well, to thy ſubject again, this is ſufficiently known.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>What is my ſubject? for I confeſs at preſent I com<g ref="char:EOLhyphen"/>prehend ſo much, that I know not whereabouts I am. How<g ref="char:EOLhyphen"/>ever, let's march on ſoftly, and perhaps I ſhall recollect my ſelf. Well, pray tell me Maſter <hi>Charles the Fifth,</hi> then you think the King of <hi>France</hi> does not much matter the Thunders of the <hi>Va<g ref="char:EOLhyphen"/>tican?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>I do believe ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Yet he acts ſo greatly the Bigot at preſent, that it is marvellous what they ſay of him.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>No matter.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>We are then very happy that the matter does not wholly depend on him, it is, thanks be to God, in the Hands of People brought up in other Maxims than you Earthly Mo<g ref="char:EOLhyphen"/>narchs; you are commonly rockt with a <hi>Machiavel</hi> in one Hand, ſo that you ſuck in with your Milk this Wretches Po<g ref="char:EOLhyphen"/>licy. You have not, for the moſt part of you, either God, or Faith, or Law, altho' you have nothing elſe in your Mouthes. We have to do with Charions, People brought up in the fear of God and of <hi>Rome,</hi> Perſons of an upright Heart, a lively Faith, an irreproachable Converſation; in a word, on whom we may rely, when the queſtion is to decide between <hi>Rome</hi> and <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Perhaps ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>What do you mean by this <hi>perhaps ſo,</hi> as well as this <hi>ſnearing giggle</hi> which accompanies it?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Prethee be not out of humour at my ſmiling, I mean thee, nor no body elſe any harm; only let me tell thee, thou ex<g ref="char:EOLhyphen"/>pecteſt Miracle to be wrought out of ſeaſon.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Why the Devil are you ſo given to detraction? how can you have ſo ill an opinion of ſo venerable a body as that of the Chanons? Ay, Venerable! is not that the name given 'em? And the Biſhops themſelves, do they call them otherwiſe, they that know 'em better than any?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Whatever pompous Title is given, does not hinder a Man from being otherwiſe at bottom. Thoſe that commit the greateſt Injuſtices, yet are baptized by the name of <hi>Juſt.</hi> Ano<g ref="char:EOLhyphen"/>ther that ſhall violate whatever is moſt Divine and Sacred, ſhall be called <hi>Pious.</hi> Another that—</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Ah, ſay no more, I know you have reaſon; I re<g ref="char:EOLhyphen"/>member that in the Pleading of <hi>Monſieur Talon,</hi> whom I not
+<pb n="38" facs="tcp:47406:20"/> long ſince mention'd, he ſaid (in ſpeaking of the King his Ma<g ref="char:EOLhyphen"/>ſter) <hi>a King ſo Pious!</hi> Yet wherein confiſts this Piety? is it in that he has taken away another Man's Wife, and openly kept her in the Face of all the World? or, is it that he keeps her at Court to ſerve as a ſcandal to all thoſe who behold her? Is it in his other Adulteries which he has committed, as well before, as ſince his pretended Converſion? Who is it that knows not the Hiſtory of <hi>Mademoiſelle de M...?</hi> And the Exile of the eldeſt Son to the Marqueſs <hi>de Louvois?</hi> Did it happen for any thing elſe than for ſpeaking too freely his Mind? Who likewiſe knows not why the Marqueſs <hi>de S.....</hi> has had the Office of keeping the Crown Jewels, which is worth twenty thouſand Crowns a Year? And that <hi>Monſieur Pelletier,</hi> Controller-General, who had laid it down in the King's Hands, thought to make it fall into thoſe of the Marqueſs <hi>de Louvois</hi> his good Friend and Be<g ref="char:EOLhyphen"/>nefactor. It was becauſe that his Wife paſt through a certain de<g ref="char:EOLhyphen"/>gree, and gave an hour or two of her time to this Monarch; what an happineſs to have thus an handſom Wife! All <hi>Verſailles</hi> might be ſwallow'd up in ruine for the Iniquity of a Father, as well as that apartment which had like to have overwhelmed <hi>Monſicur Bontemps</hi> in its fall. This makes all forgotten. Preſent as many Memorials as you will after this, not one of 'em is read; or if they be, it's only to make a ſacrifice of 'em to the Perſon beloved. Let one of the Commiſſaries be found tardy, and to juſtifie himſelf, he ſhews he has done nothing but by his Maſters Order; he is not believ'd, tho' all the Court are ready to teſti<g ref="char:EOLhyphen"/>fie for his Honeſty, and tho' he be generally bewaiſed by all People, this will not hinder his diſgrace. He muſt undergo the Puniſhment, he is a Rogue, a Raſcal, a great Villain; in a word, deſerves Hanging, were they not more favourable to him than his Crime deſerves. Yet to ſpeak freely, as matters are carried, he is more imprudent than criminal. Having had ſo long to do with a Miniſter, ought he not to know that the preſent Reign requires a Man to be furniſht with an handſom Wiſe? With this Furniture a Man cannot fail, for if ſhe be not for the Maſters turn, ſhe will ſerve ſome one elſe, who will have favour enough to make his aſſiſtance neceſſary.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Truly, Maſter <hi>Porter,</hi> you prate roundly for a Man of your Mediocrity: have you heard all theſe Paſſages at your Gate? do not you know how cautious a Man muſt be of talking matters of this Nature?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="39" facs="tcp:47406:20"/>Volcart.</speaker>
+               <p>Ay, ay, ſo I am, of what paſſes here. I know how to ſhut mine Eyes on occaſion, and not open 'em but when my Intereſt requires it. And therefore, having been already ſo free with you, I ſhall further tell you, that when a Woman comes here diſguis'd in Mans Cloaths, I leave always one corner of mine Eyes open, to ſee whether ſhe be handſom or homely; yet I al<g ref="char:EOLhyphen"/>ways put by evil thoughts which may ariſe: which makes me often tell my ſelf, <hi>Thou art a damn'd cenſorious Fellow,</hi> thou art one of thoſe who cannot ſee a Man and a Woman go to Bed to<g ref="char:EOLhyphen"/>gether, but preſently they muſt be naught; tho' I often know Perſons, yet I tell my ſelf I am miſtaken, yet I could call 'em by their Names and Surnames, which makes me ſometimes per<g ref="char:EOLhyphen"/>ſwade my ſelf they come here for ſome State buſineſs. I alſo ſometimes lend my Ear, not through curioſity, but to confirm my ſelf in my Opinion, and hearing now and then ſome Sighs, and knowing that our State Affairs go not well, I take matters by the beſt handle, ſo that inſtead of turning things on the ſide of Love, as another perhaps would do, I turn them on the ſide of Affection, which ſuch may have for the publick Welfare; and attribute hereunto this Affliction.</p>
+            </sp>
+            <sp>
+               <speaker>Ghost.</speaker>
+               <p>This is very honeſt, and herein thou doſt thy Duty.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>Ah, if I were at the Court of <hi>France,</hi> I ſhould make a rare Miniſter... To what purpoſe are all thoſe Intrigues? and would it not be better the publick knew leſs of 'em? It diſ<g ref="char:EOLhyphen"/>guſts a Man when he has ſatisfied his fancy, for a Woman to talk to him of Marriage, for he will fear thereby to make himſelf the laughing-ſtock of the World; but when he can imagine no bo<g ref="char:EOLhyphen"/>dy knows any thing of his Affairs, he goes with his Head liſted up, and often Marries an old Whore, as creditibly as if ſhe was an honeſt Woman. I have heard of a Duke and Peer of <hi>France,</hi> who died not long ſince, who underſtood ſo well this Maxim, that he would not let his own Domeſticks know what Trade he drove, altho' it be a hard matter to conceal it. He had hired an Houſe in <hi>Grenelle-ſtreet,</hi> whoſe back-ſide joyn'd to another, where there was a very handſom Woman, and very modeſt to look on; ſo that having cauſed a paſſage to be made from one Apartment to the other, they frequented without any bodies perceiving them. This Duke's Wife dying, to his great content, they were Married together, and liv'd very happily, for all that I know.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="40" facs="tcp:47406:21"/>Ghost.</speaker>
+               <p>To hear-thee talk, one would think thou haſt lain all thy life-time buried in Matter; whereas thou ſhouldſt raiſe thy Thoughts, and conſider that the Mind has infinitely more charms than the Body.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>So that when you made Love to the Queen of <hi>Han<g ref="char:EOLhyphen"/>gary,</hi> and that other Woman whoſe Husband you murthered; this was all for the ſake of their Minds. Ah, Maſter <hi>Charles,</hi> how you would Hoodwink the World! what neceſſity was there of killing this poor Man, who would not have hinder'd you from enjoying a Thing to which he had no more right than another? You were for concealing your Intrigues in all times, not like <hi>Lewis the Great,</hi> who was ſo far from hiding his Vices, that he carried along with him, openly where ever he went, his <hi>La Valicre, Monteſpan, Maintenon,</hi> and <hi>Fontanges.</hi> It's true, he now practiſes according to your example, having a pri<g ref="char:EOLhyphen"/>vate back-ſtairs for ſuch occaſions. But do not you know, how the Devil became an Hermit when he grew old? And this is per<g ref="char:EOLhyphen"/>haps the occaſion too why you read me theſe Leſſons; but I would willingly know at what Age you your ſelf put them in practiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>And at what Age wilt thou become wiſe, thou that ſpeakeſt?</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>I will not become ſo, for I pretend to be ſo already. But is it not very fair, that you who have learnt ſo many things from me, ſhould make me a requital by intruſting me with your Secret to communicate to your Deſcendants, ſeeing you told me in the beginning, that this was the reaſon why you ſet out from the other World? for I'll go as far as <hi>Madrid</hi> to reveal it to our Monarch.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>My time is out, and I have leave to ſtay no longer, I muſt bid thee farewell.</p>
+            </sp>
+            <sp>
+               <speaker>Volcart.</speaker>
+               <p>O he is vaniſht indeed; how ſuddenly is he gone? Ah, good Sir, let me have but one word more with you, let me have but ſome token that may make the World believe that I have diſcours'd with you. But you are dumb as well as inviſible. I muſt blaze abroad this Converſation, tho' all the World<g ref="char:punc">▪</g> will count me a Fool.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>ADVERTISEMENT.</p>
+            <p>
+               <hi>LAtely Publiſhed, The Hiſtory of the Moſt Renowned</hi> Don Quixote <hi>of</hi> Mancha, <hi>and his Truſty Squire</hi> Sancha Pancha, <hi>now made</hi> Engliſh <hi>according to the Humour of our Modern Language, Adorned with ſeveral Copper Plates, and ſold by</hi> John Newton.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47406:21"/>
+         </div>
+      </back>
+   </text>
+</TEI>
